@@ -189,3 +189,15 @@ input[type=submit] {
   transition: background-color 0.2s ease,
     color 0.2s ease;
 }
+
+
+
+@media (max-width: 500px) {
+
+  .grocery-list {
+    
+    width: 350px;
+    border-radius: 10px;
+  }
+
+}
